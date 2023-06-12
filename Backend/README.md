@@ -14,6 +14,8 @@ npm install
 npm i
 ```
 
+### `Start Strapi Development Server`
+
 ```
 npm run develop
 # or
