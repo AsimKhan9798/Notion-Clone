@@ -24,5 +24,7 @@ yarn develop
 
 ### `When strapi Admin panel open enter the below login credentials`
 
+```
 Email : ufaq148@gmail.com
 Password : khan12345
+```
