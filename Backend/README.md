@@ -6,25 +6,16 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
 
-### `Install Dependencies`
-
-```
-npm install
-# or
-npm i
-```
-
-### `Start Strapi Development Server`
-
 ```
 npm run develop
 # or
 yarn develop
 ```
 
-### `When strapi Admin panel open enter the below login credentials`
+### `Credentials`
 
 ```
-Email : ufaq148@gmail.com
-Password : khan12345
+email : notion@email.com
+# &
+Password : notion12345
 ```
