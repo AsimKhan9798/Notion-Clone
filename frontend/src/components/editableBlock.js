@@ -55,8 +55,8 @@ const EditableBlock = ({
     }
   
     setEnterKeyPressed(false);
-    
-  }, [enterKeyPressed, selectMenuIsOpen, id, addBlock, contentEditable, backendId]);
+    // eslint-disable-next-line
+  }, [selectMenuIsOpen, enterKeyPressed, contentEditable, id, addBlock, backendId]);
   
 
   // Modifies the input value by removing a specific pattern if selectMenuIsOpen is false, and updates the htmlRef with the updated value.
